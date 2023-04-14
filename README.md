@@ -4,6 +4,7 @@ This project is a simple example for express server.
 
 This project was created using [ViteJS](https://vitejs.dev/guide/). API call was made using [axios](https://axios-http.com/docs/intro) in `express` server.
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/emrekalfa)
 
 ## How to install
 
