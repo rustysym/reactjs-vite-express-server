@@ -22,7 +22,7 @@ Using this command we install the dependencies found in the `package.json` file.
 
 After installing first we start our express server via nodemon.
 
-Open [http://localhost:3001](http://localhost:3001) to view it in your browser or change the last value according to the port you have specified from the .env file.
+Open [http://localhost:3001/products](http://localhost:3001/products) to view it in your browser or change the last value according to the port you have specified from the .env file.
 
 ### `npm run dev`
 
